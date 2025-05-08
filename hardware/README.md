@@ -1,5 +1,7 @@
 # Hardware
 
+![Dimensions](resources/Dimensions.png)
+
 ## Pinout
 
 ![PINOUT](resources/buzzer_pinout.jpg)
