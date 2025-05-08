@@ -3,6 +3,7 @@ title: "UNIT Buzzer Module"
 version: "1.0"
 modified: "2025-05-08"
 output: "buzzer_module"
+subtitle: "Passive buzzer module"
 "
 ---
 
