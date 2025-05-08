@@ -2,7 +2,7 @@
 
 ## Pinout
 
-![PINOUT](resources/buzzer_pinout.svg)
+![PINOUT](resources/buzzer_pinout.jpg)
 
 
 | Pin     | Function        |
