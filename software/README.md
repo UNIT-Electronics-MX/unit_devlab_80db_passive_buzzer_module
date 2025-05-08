@@ -4,7 +4,6 @@ version: "1.0"
 modified: "2025-05-08"
 output: "buzzer_module"
 subtitle: "A passive buzzer module is a sound-generating device that produces tones when controlled by a PWM signal from a microcontroller."
-"
 ---
 
 <!--
