@@ -1,10 +1,10 @@
 # UNIT Buzzer Module
 
-This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as Arduino, ESP32, CH552, and STM32 boards.
+* This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
 
-![UNIT Buzzer](hardware/resources/buzzer_top.png)
+* The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
 
-The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
+<a href="#"><img src="hardware/resources/buzzer_top.png" width="500px"><br/> UNIT Buzzer Module</a>
 
 ## Features
 
@@ -25,12 +25,14 @@ The buzzer onboard can generate audible signals for use in **alarms**, **notific
 - Autonomous Drone or Robot Alert System
 
 
-## 🔄 Alert Priority System (Optional)
+## 🔄 Alert Priority System (Optional) 
 - 🔴 Continuous tone → Critical failure
 - 🟡 Intermittent tone → Warning or moderate event
 - 🔵 Short beep → Event confirmation or feedback
 
 
 > 🔧 Note: use **PWM signals** to generate tones.
+
+<img src="hardware/resources/sonido.gif" alt="Sound Icon" width="100"/>
 
 
