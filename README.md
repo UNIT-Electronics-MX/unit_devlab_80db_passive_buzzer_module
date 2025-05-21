@@ -27,8 +27,7 @@ This module is a compact, easy-to-use **passive** buzzer component designed for 
 - Smart Irrigation System with Fault Alerts
 - Autonomous Drone or Robot Alert System
 
-# LICENSE MIT
-
+## LICENSE 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔄 Alert Priority System (Optional) 
