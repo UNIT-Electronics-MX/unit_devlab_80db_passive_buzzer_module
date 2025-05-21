@@ -1,15 +1,19 @@
 # UNIT Buzzer Module
 
-* This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
+This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
 
-* The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
+> **_NOTE:_** The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
 
-<a href="#"><img src="hardware/resources/buzzer_top.png" width="500px"><br/> UNIT Buzzer Module</a>
+<div align="center">
+    <a href="./buzzer_module.pdf">
+        <img src="hardware/resources/buzzer_top.png" width="500px" alt="UNIT Buzzer Module"><br/>
+        UNIT Buzzer Module
+    </a>
+</div>
 
 ## Features
 
 - 🧩 3-pin standard interface: `+5V`, `Signal`, `GND`
-  
 - 🔊 Built-in buzzer (active or passive)
 - 📏 Compact footprint with mounting hole
 
@@ -21,9 +25,11 @@
 - Secure Access Control with Intrusion Alerts using RFID
 - Automotive Diagnostic Panel
 - Smart Irrigation System with Fault Alerts
-
 - Autonomous Drone or Robot Alert System
 
+# LICENSE MIT
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔄 Alert Priority System (Optional) 
 - 🔴 Continuous tone → Critical failure
@@ -32,7 +38,8 @@
 
 
 > 🔧 Note: use **PWM signals** to generate tones.
-
-<img src="hardware/resources/sonido.gif" alt="Sound Icon" width="100"/>
+<div align="center">
+    <img src="hardware/resources/sonido.gif" alt="Sound Icon" width="100"/>
+</div>
 
 
