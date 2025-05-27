@@ -19,24 +19,32 @@ Edita las secciones respetando el orden, sin eliminar los encabezados.
 
 ## Introduction
 
-This passive buzzer module requires a PWM (Pulse Width Modulation) signal or frequency generator to function.
 
-When a PWM signal is applied to the passive buzzer, the frequency of this signal determines the pitch of the sound. This feature enables developers to produce musical tones, alarms of varying urgency, or simple feedback clicks—all from the same device.
+The UNIT Buzzer Module is a compact and easy-to-integrate passive buzzer designed for embedded systems and prototyping. It features a standard 3-pin interface consisting of VCC (5V), Signal, and GND, allowing direct connection to popular microcontrollers such as Arduino, ESP32, CH552, and STM32.
+
+This module is intended for generating audible alerts in systems that require alarms, notifications, timing events, or user interaction feedback. It includes a pre-mounted passive buzzer element and supporting circuitry, enabling it to be driven directly from a digital output or PWM-capable GPIO pin.
+
+When a PWM signal is applied, the frequency determines the pitch of the tone produced by the buzzer. This approach provides flexibility to generate different sounds based on system state, user input, or event priority.
 
 ## Functional Description
 
-- The module contains a piezoelectric transducer without internal oscillation circuitry.
-- Sound is produced only when driven by an external frequency source, such as a microcontroller PWM output.
-- Operates efficiently in the audible frequency range between 500 Hz and 5 kHz.
-- The module consists of three pins: VCC, GND, and SIGNAL, suitable for direct breadboard or header connection.
+
+The UNIT Buzzer Module integrates a passive piezoelectric transducer, which produces sound by converting electrical oscillations into mechanical vibrations. Unlike active buzzers, this module lacks an internal oscillator and requires an external signal source to operate.
+
+Sound is generated when a square wave or PWM signal is applied to the Signal input pin. The frequency of this signal determines the pitch of the sound, while the duty cycle can influence the perceived volume and clarity. For best results, the input frequency should fall within the typical audible range of 500 Hz to 5 kHz.
+
+The module's compact PCB includes clearly labeled VCC, Signal, and GND pins for easy connection to a microcontroller or signal generator. Due to its passive nature, the buzzer remains silent unless driven by a toggling signal.
+
+
 
 ## Electrical Characteristics & Signal Overview
 
-- Operating voltage: 3.0 V – 5.5 V (recommended 5 V)
-- Current consumption: 5 mA – 30 mA depending on frequency
-- Frequency range: 500 Hz – 5 kHz (nominal response)
-- Logic level compatibility: 3.3 V / 5 V digital signals
-- Drive type: External PWM (no internal tone generator)
+- Operating Voltage: 3.0 V – 5.5 V (5 V recommended for optimal sound pressure)
+- Current Consumption: Typically between 5 mA and 30 mA depending on frequency and supply voltage
+- Input Signal Type: PWM or square wave, externally generated
+- Frequency Range: 500 Hz – 5 kHz
+- Logic Compatibility: Accepts 3.3 V and 5 V logic levels (TTL compatible)
+- Input Impedance: High, acts as capacitive load to the signal pin
 
 ## Applications
 
@@ -76,17 +84,15 @@ When a PWM signal is applied to the passive buzzer, the frequency of this signal
 
 | Symbol | I/O   | Description                         |
 |--------|-------|-------------------------------------|
-| VCC    | Input | Power supply (3.0 V to 5.5 V)       |
-| GND    | Input | Electrical ground                   |
-| SIG    | Input | Digital/PWM signal input            |
+
 
 ## Block Diagram
 
-![Function Diagram](images/function-diagram.jpg)
+![Function Diagram](./images/function-diagram.jpg)
 
 ## Dimensions
 
-![Dimensions](images/dimensions.png)
+![Dimensions](./images/dimensions.png)
 
 ## Usage
 

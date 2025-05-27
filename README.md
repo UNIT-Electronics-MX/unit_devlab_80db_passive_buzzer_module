@@ -1,8 +1,11 @@
 # Buzzer Module
 
-This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
 
-> **_NOTE:_** The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
+<div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version"></a>
+    <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+    <br>
+</div>
 
 <div align="center">
     <a href="./buzzer_module.pdf">
@@ -10,6 +13,12 @@ This module is a compact, easy-to-use **passive** buzzer component designed for 
         UNIT Buzzer Module
     </a>
 </div>
+
+
+This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
+
+> **_NOTE:_** The buzzer onboard can generate audible signals for use in **alarms**, **notifications**, **timers**, and **user feedback systems**. Its design includes a pre-mounted drive circuit, enabling direct digital control from microcontroller GPIO pins.
+
 
 ## Features
 
