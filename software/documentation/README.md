@@ -15,7 +15,7 @@ Edita las secciones respetando el orden, sin eliminar los encabezados.
 
 # UNIT Buzzer Module
 
-![product](./images/product.png)
+![product](images/top.png)
 
 ## Introduction
 
@@ -88,7 +88,7 @@ The module's compact PCB includes clearly labeled VCC, Signal, and GND pins for 
 
 ## Block Diagram
 
-![Function Diagram](./images/pinout.jpg)
+![Function Diagram](./images/pinout.png)
 
 ## Dimensions
 
