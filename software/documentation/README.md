@@ -88,11 +88,11 @@ The module's compact PCB includes clearly labeled VCC, Signal, and GND pins for 
 
 ## Block Diagram
 
-![Function Diagram](./images/function-diagram.jpg)
+![Function Diagram](./images/pinout.jpg)
 
 ## Dimensions
 
-![Dimensions](./images/dimensions.png)
+![Dimensions](./images/dimension.png)
 
 ## Usage
 
