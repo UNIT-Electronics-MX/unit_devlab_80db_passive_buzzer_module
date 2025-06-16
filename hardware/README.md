@@ -1,12 +1,18 @@
 # Hardware
 
-<a href="#"><img src="resources/Schematics_icon.jpg" width="400px"><br/> Schematics</a>
+<div align="center">
+<a href="#"><img src="resources/img/Schematics_icon.jpg" width="400px"><br/> Schematics</a>
+</div>
 
-## Pinout
+# Pinout
 
-<a href="#"><img src="resources/buzzer_pinout.jpg" width="400px"><br/> Pinout</a>
+<div align="center">
+<a href="#"><img src="resources/unit_pinout_v_0_0_1_ue0088_buzzer_en.jpg" width="400px"><br/> Pinout</a>
+</div>
 
  ### Description
+
+<div align="center">
 
 | Pin     | Function               |
 |---------|------------------------|
@@ -14,7 +20,10 @@
 | Signal  | Digital or PWM input   |
 | GND     | Ground                 |
 
+</div>
+
 ## Dimensions 
 
-<a href="#"><img src="resources/Dimensions.png" width="500px"><br/> Dimensions</a>
-
+<div align="center">
+<a href="#"><img src="resources/unit_dimension_v_1_1_0_ue0088_modulo_buzzer.png" width="500px"><br/> Dimensions</a>
+</div>
