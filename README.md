@@ -13,7 +13,7 @@
         UNIT Buzzer Module
     </a>
 </div>
-
+<br/>
 
 This module is a compact, easy-to-use **passive** buzzer component designed for embedded systems and prototyping. It features a standardized 3-pin interface: **VCC (5V)**, **Signal**, and **GND**, allowing seamless integration with a variety of microcontrollers, such as `Arduino`, `ESP32`, `CH552`, and `STM32` boards.
 
