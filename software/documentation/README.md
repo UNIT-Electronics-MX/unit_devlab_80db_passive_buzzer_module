@@ -15,7 +15,7 @@ Edita las secciones respetando el orden, sin eliminar los encabezados.
 
 # UNIT Buzzer Module
 
-![product](images/top.png)
+![product](../../hardware/resources/unit_top_ue0088_modulo_buzzer_v_1_1_0.png)
 
 ## Introduction
 
@@ -88,11 +88,11 @@ The module's compact PCB includes clearly labeled VCC, Signal, and GND pins for 
 
 ## Block Diagram
 
-![Function Diagram](./images/pinout.png)
+![Function Diagram](../../hardware/resources/unit_pinout_v_0_0_1_ue0088_buzzer_en.jpg)
 
 ## Dimensions
 
-![Dimensions](./images/dimension.png)
+![Dimensions](../../hardware/resources/unit_dimension_v_1_1_0_ue0088_modulo_buzzer.png)
 
 ## Usage
 
@@ -107,7 +107,7 @@ Works with:
 
 ## Downloads
 
-- [Schematic PDF](../hardware/Schematics_UE0088_Buzzer_SMD-v1.0.pdf)
+[Schematic PDF](../../hardware/unit_sch_v_1_1_0_ue0088_modulo_buzzer.pdf)
 
 ## Purchase
 
