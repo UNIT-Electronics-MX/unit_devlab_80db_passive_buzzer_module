@@ -69,11 +69,11 @@ This repository contains firmware and documentation for integrating the Relay Mo
 ### Installation
 1. Clone the repository:
    ```
-   git@github.com:UNIT-Electronics-MX/unit_cn3165_battery_charger_module.git
+    git@github.com:UNIT-Electronics-MX/unit_buzzer_module.git
    ```
 2. Navigate to the project directory:
    ```
-   cd ./unit_cn3165_battery_charger_module.git
+   cd ./unit_buzzer_module.git
    ```
 3. Follow the platform-specific setup instructions detailed in the project documentation.
 
