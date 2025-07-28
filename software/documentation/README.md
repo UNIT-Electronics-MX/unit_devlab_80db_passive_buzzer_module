@@ -107,7 +107,7 @@ Works with:
 
 ## Downloads
 
-- [Schematic PDF](../hardware/Schematics_UE0088_Buzzer_SMD-v1.0.pdf)
+- [Schematic PDF](https://github.com/UNIT-Electronics-MX/unit_buzzer_module/blob/main/hardware/unit_sch_v_1_1_0_ue0088_modulo_buzzer.pdf)
 
 ## Purchase
 

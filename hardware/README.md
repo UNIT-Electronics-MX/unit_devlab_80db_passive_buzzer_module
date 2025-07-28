@@ -1,6 +1,6 @@
 # Hardware
 
-<a href="#"><img src="resources/Schematics_icon.jpg" width="400px"><br/> Schematics</a>
+<a href="./unit_sch_v_1_1_0_ue0088_modulo_buzzer.pdf"><img src="resources/Schematics_icon.jpg" width="400px"><br/> Schematics</a>
 
 ## Pinout
 
