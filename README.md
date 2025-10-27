@@ -1,5 +1,4 @@
-# Buzzer Module
-
+# DevLab: 80dB Passive Buzzer Module
 
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version"></a>
