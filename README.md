@@ -9,7 +9,7 @@
 <div align="center">
     <a href="#">
         <img src="hardware/resources/unit_top_ue0088_modulo_buzzer_v_1_1_1.png" width="500px" alt="UNIT Buzzer Module"><br/>
-        UNIT Buzzer Module
+     
     </a>
 </div>
 <br/>
@@ -22,7 +22,7 @@
 
 
 [<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki">](#)
-[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](hardware/unit_datasheet_ue0088_buzzer_module_v1_1_1.pdf)
+[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](hardware/unit_datasheet_v_1_1_0_ue0088_modulo_buzzer.pdf)
 [<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now">](https://uelectronics.com/)
 [<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started">](#)
 
