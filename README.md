@@ -9,7 +9,7 @@
 <div align="center">
     <a href="#">
         <img src="hardware/resources/unit_top_ue0088_modulo_buzzer_v_1_1_1.png" width="500px" alt="UNIT Buzzer Module"><br/>
-        UNIT Buzzer Module
+     
     </a>
 </div>
 <br/>
@@ -22,7 +22,7 @@
 
 
 [<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki">](#)
-[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](hardware/unit_datasheet_ue0088_buzzer_module_v1_1_1.pdf)
+[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](hardware/unit_datasheet_v_1_1_0_ue0088_modulo_buzzer.pdf)
 [<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now">](https://uelectronics.com/)
 [<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started">](#)
 
@@ -62,25 +62,6 @@ This module is a compact, easy-to-use **passive** buzzer component designed for 
     <img src="hardware/resources/img/sonido.gif" alt="Sound Icon" width="100"/>
 </div>
 
-
-## Documentation and Setup
-
-### Overview
-This repository contains firmware and documentation for integrating the Relay Module into your projects.
-
-### Installation
-1. Clone the repository:
-   ```
-    git@github.com:UNIT-Electronics-MX/unit_buzzer_module.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ./unit_buzzer_module.git
-   ```
-3. Follow the platform-specific setup instructions detailed in the project documentation.
-
-### Usage
-Include the module initialization and configuration routines in your main project file. Sample code snippets and detailed explanations can be found in the documentation folder of the repository.
 
 
 ## Support
