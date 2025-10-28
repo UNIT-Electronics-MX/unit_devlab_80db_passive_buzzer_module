@@ -63,25 +63,6 @@ This module is a compact, easy-to-use **passive** buzzer component designed for 
 </div>
 
 
-## Documentation and Setup
-
-### Overview
-This repository contains firmware and documentation for integrating the Relay Module into your projects.
-
-### Installation
-1. Clone the repository:
-   ```
-    git@github.com:UNIT-Electronics-MX/unit_buzzer_module.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ./unit_buzzer_module.git
-   ```
-3. Follow the platform-specific setup instructions detailed in the project documentation.
-
-### Usage
-Include the module initialization and configuration routines in your main project file. Sample code snippets and detailed explanations can be found in the documentation folder of the repository.
-
 
 ## Support
 For any issues or further assistance, please open an issue on the GitHub repository or contact our support team.
