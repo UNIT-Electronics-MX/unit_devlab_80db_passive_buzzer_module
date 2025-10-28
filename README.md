@@ -9,7 +9,6 @@
 <div align="center">
     <a href="#">
         <img src="hardware/resources/unit_top_ue0088_modulo_buzzer_v_1_1_1.png" width="500px" alt="UNIT Buzzer Module"><br/>
-     
     </a>
 </div>
 <br/>
